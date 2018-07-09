@@ -1,0 +1,63 @@
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Buildings\Buildings\bin\Buildings.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Buildings\Buildings\bin\Buildings.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Buildings\Buildings\bin\Antlr3.Runtime.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Buildings\Buildings\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Buildings\Buildings\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Buildings\Buildings\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Buildings\Buildings\bin\DotNetOpenAuth.Core.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Buildings\Buildings\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Buildings\Buildings\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Buildings\Buildings\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Buildings\Buildings\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Buildings\Buildings\bin\EntityFramework.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Buildings\Buildings\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Buildings\Buildings\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Buildings\Buildings\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Buildings\Buildings\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Buildings\Buildings\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Buildings\Buildings\bin\System.Web.Optimization.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Buildings\Buildings\bin\System.Web.Providers.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Buildings\Buildings\bin\WebGrease.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Buildings\Buildings\bin\EntityFramework.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Buildings\Buildings\bin\DotNetOpenAuth.Core.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Buildings\Buildings\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Buildings\Buildings\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Buildings\Buildings\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Buildings\Buildings\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Buildings\Buildings\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Buildings\Buildings\obj\Debug\Buildings.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Buildings\Buildings\obj\Debug\Buildings.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Buildings\Buildings\obj\Debug\Buildings.pdb
+C:\Users\Ravi\Desktop\Buildings\Buildings\Buildings\bin\Buildings.dll.config
+C:\Users\Ravi\Desktop\Buildings\Buildings\Buildings\bin\Buildings.dll
+C:\Users\Ravi\Desktop\Buildings\Buildings\Buildings\bin\Buildings.pdb
+C:\Users\Ravi\Desktop\Buildings\Buildings\Buildings\bin\Antlr3.Runtime.dll
+C:\Users\Ravi\Desktop\Buildings\Buildings\Buildings\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Ravi\Desktop\Buildings\Buildings\Buildings\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Ravi\Desktop\Buildings\Buildings\Buildings\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Ravi\Desktop\Buildings\Buildings\Buildings\bin\DotNetOpenAuth.Core.dll
+C:\Users\Ravi\Desktop\Buildings\Buildings\Buildings\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Ravi\Desktop\Buildings\Buildings\Buildings\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Ravi\Desktop\Buildings\Buildings\Buildings\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Ravi\Desktop\Buildings\Buildings\Buildings\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Ravi\Desktop\Buildings\Buildings\Buildings\bin\EntityFramework.dll
+C:\Users\Ravi\Desktop\Buildings\Buildings\Buildings\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Ravi\Desktop\Buildings\Buildings\Buildings\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Ravi\Desktop\Buildings\Buildings\Buildings\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Ravi\Desktop\Buildings\Buildings\Buildings\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Ravi\Desktop\Buildings\Buildings\Buildings\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ravi\Desktop\Buildings\Buildings\Buildings\bin\System.Web.Optimization.dll
+C:\Users\Ravi\Desktop\Buildings\Buildings\Buildings\bin\System.Web.Providers.dll
+C:\Users\Ravi\Desktop\Buildings\Buildings\Buildings\bin\WebGrease.dll
+C:\Users\Ravi\Desktop\Buildings\Buildings\Buildings\bin\EntityFramework.xml
+C:\Users\Ravi\Desktop\Buildings\Buildings\Buildings\bin\DotNetOpenAuth.Core.xml
+C:\Users\Ravi\Desktop\Buildings\Buildings\Buildings\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Ravi\Desktop\Buildings\Buildings\Buildings\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Ravi\Desktop\Buildings\Buildings\Buildings\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Ravi\Desktop\Buildings\Buildings\Buildings\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Ravi\Desktop\Buildings\Buildings\Buildings\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Ravi\Desktop\Buildings\Buildings\Buildings\obj\Debug\Buildings.csprojResolveAssemblyReference.cache
+C:\Users\Ravi\Desktop\Buildings\Buildings\Buildings\obj\Debug\Buildings.csproj.CoreCompileInputs.cache
+C:\Users\Ravi\Desktop\Buildings\Buildings\Buildings\obj\Debug\Buildings.csproj.CopyComplete
+C:\Users\Ravi\Desktop\Buildings\Buildings\Buildings\obj\Debug\Buildings.dll
+C:\Users\Ravi\Desktop\Buildings\Buildings\Buildings\obj\Debug\Buildings.pdb
